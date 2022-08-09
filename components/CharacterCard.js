@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
     paddingTop: 50,
   },
   image: {
-    width: 133,
+    width: 200,
     height: 204,
   },
   text: {
@@ -17,14 +17,15 @@ const styles = StyleSheet.create({
     fontWeight:'600',
     fontSize: 18,
     lineHeight:25,
+    textAlign:'center',
   },
 });
 
 export default function CharacterCard({image, name, id}) {
 	const navigation = useNavigation();
   return (
-    <TouchableOpacity style={{display: 'flex',flexDirection: 'row'
-    ,backgroundColor: "beige", borderWidth: 1,borderColor: 'grey',margin:1}} 		
+    <TouchableOpacity style={{display: 'flex',alignItems:'center'
+    ,backgroundColor: "black"}} 		
 			onPress={() => navigation.navigate('Detail',{ id:id})}
 	>
 			<Image

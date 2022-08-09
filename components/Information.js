@@ -5,7 +5,6 @@ import { Card,Title, Paragraph } from 'react-native-paper';
 export default function Information({ image, name, description }) {
   return (
     <View>
-
       <Card>
         <Card.Cover source={{ uri: image }} />
       </Card>
