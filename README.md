@@ -17,7 +17,7 @@
 
 # Capturas
 
-<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/1.jpg" alt="About screen" title="Landing"/>
-<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/2.jpg" alt="About screen" title="Landing"/>
-<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/3.jpg" alt="About screen" title="Landing"/>
-<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/4.jpg" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/1.png" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/2.png" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/3.png" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/4.png" alt="About screen" title="Landing"/>
