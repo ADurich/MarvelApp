@@ -1,6 +1,6 @@
 # Marvel App
 
-## Comenzando
+## Pasos
 
  1. Clonar el repositorio
  2. Instalar expo-cli:
@@ -17,7 +17,7 @@
 
 # Capturas
 
-<img width="90%" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage.png" alt="About screen" title="Landing"/>
-<img width="90%" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage2.png" alt="About screen" title="Landing"/>
-<img width="90%" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage3.png" alt="About screen" title="Landing"/>
-<img width="90%" src="https://github.com/ADurich/PI-Videogames-FT15a/blob/main/videogamesImages/videogameImage4.png" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/1.jpg" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/2.jpg" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/3.jpg" alt="About screen" title="Landing"/>
+<img width="40%" src="https://github.com/ADurich/MarvelApp/blob/main/images/4.jpg" alt="About screen" title="Landing"/>
